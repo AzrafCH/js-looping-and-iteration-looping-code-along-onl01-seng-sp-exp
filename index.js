@@ -13,4 +13,3 @@ function countDown() {
     console.log(countDown--)
   }
 }
-
